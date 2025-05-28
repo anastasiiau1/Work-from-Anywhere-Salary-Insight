@@ -1,0 +1,11 @@
+project:
+  type: website
+
+output-dir: docs
+
+website:
+  title: "Анализ зарплат при дистанционной работе (2024)"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Главная
